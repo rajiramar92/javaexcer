@@ -36,10 +36,9 @@ public class Test {
 			switch (d) {
 			case 'a':
 				co++;
-				break;
+				
 
-			default:
-				break;
+			
 			}
 			
 		}
