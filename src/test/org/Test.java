@@ -30,23 +30,10 @@ public class Test {
 		String f="radar";
 
 
-		char[] c = f.toCharArray();
-		int co=0;
-		for (char d : c) {
-			switch (d) {
-			case 'a':
-				co++;
-				
-
-			
-			}
-			
-		}
-	System.out.println(co);
-	}
-
 			}
 
+}
+
 
 			
 
@@ -58,8 +45,7 @@ public class Test {
 		
 		
 		
-		}
-
+	
 		
 
 		
