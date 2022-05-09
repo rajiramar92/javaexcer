@@ -35,9 +35,9 @@ public class Test {
 		for (char d : c) {
 			switch (d) {
 			case 'a':
-				co++;
-				
-
+				break;
+			case 'e':
+				break;
 			
 			}
 			
